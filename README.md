@@ -12,38 +12,38 @@ This is a fork of TG-Proxy-Parser by ndsphonemy
 # Subscription Links (Base64)
 - **Mixed**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
+    https://raw.githubusercontent.com/thefatedefeater/TGParse/main/splitted/mixed
     ```
 - **Vless**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vless
+    https://raw.githubusercontent.com/thefatedefeater/TGParse/main/splitted/vless
     ```
 - **Vmess**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vmess
+    https://raw.githubusercontent.com/thefatedefeater/TGParse/main/splitted/vmess
     ```
 - **Hysteria2**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hy2
+    https://raw.githubusercontent.com/thefatedefeater/TGParse/main/splitted/hy2
     ```
      ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hysteria2
+    https://raw.githubusercontent.com/thefatedefeater/TGParse/main/splitted/hysteria2
     ```
 - **Trojan**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/trojan
+    https://raw.githubusercontent.com/thefatedefeater/TGParse/main/splitted/trojan
     ```
 - **ShadowSocks**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/ss
+    https://raw.githubusercontent.com/thefatedefeater/TGParse/main/splitted/ss
     ```
 - **Socks5**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/socks
+    https://raw.githubusercontent.com/thefatedefeater/TGParse/main/splitted/socks
     ```
 
 # Stargazers
-[![Star History Chart](https://api.star-history.com/svg?repos=Surfboardv2ray/TGParse&type=Date)](https://star-history.com/#Surfboardv2ray/TGParse&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=thefatedefeater/TGParse&type=Date)](https://star-history.com/#thefatedefeater/TGParse&Date)
 
 # Visitors
 ![Visitor's Count](https://profile-counter.glitch.me/Surfboardv2ray_TGParse/count.svg)
