@@ -1,6 +1,7 @@
 [
     "Hope_Net",
     "ServerNett",
+    "abc_cloud",
     "afv2ray",
     "alfred_config",
     "allv2ray",
@@ -92,7 +93,6 @@
     "shh_proxy",
     "sobi_vpn",
     "spikevpn",
-    "springhq",
     "tehranargo",
     "thunderv2ray",
     "tls_v2ray",
@@ -162,6 +162,7 @@
     "vpnwedbaz",
     "wizyvpn",
     "wsbvpn",
+    "xpnteam",
     "xvproxy",
     "zdyz2",
     "zedmodeonvpn"
